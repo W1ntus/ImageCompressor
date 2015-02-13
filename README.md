@@ -1,5 +1,5 @@
 # ImageCompressor
-Image compressor tool made as a school project, utilizes discrete cosine transform commonly used in jpeg-compression.
+Image compressor tool made as a school project, written in C#. Utilizes discrete cosine transform commonly used in jpeg-compression.
 
 The algorithmic structure could use some honing, since it's pretty heavy.
 
